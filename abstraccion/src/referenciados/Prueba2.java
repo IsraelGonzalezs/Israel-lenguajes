@@ -5,7 +5,7 @@
  */
 package referenciados;
 
-import abstraccion.Usuario;
+
 
 
 public class Prueba2 {

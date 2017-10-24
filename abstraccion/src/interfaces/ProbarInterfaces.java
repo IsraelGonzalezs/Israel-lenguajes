@@ -3,11 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package interfaces;
 
 /**
  *
- * @author T-102
+ * @author rapid
  */
-float peso;
-float altura;
+public class ProbarInterfaces {
+    public static void main(String[] args) {
+     //   Direccion d=new Direccion();
+     Direccion d;
+    }
 }

@@ -5,20 +5,13 @@
  */
 package abstraccion;
 
-/**
- *
- * @author T-102
- */
-public class Abstraccion {
-
-    /**
-     * @param args the command line arguments
-     */
-    
+public class Imc {
     Usuario u;
     String resultado;
     
-    public String calcular()}
-float mivalor=u.peso/(u.altura+u.altura);
-resultado=
+    public String  calcular(){
+       float mivalor= u.getPeso()/(u.getAltura()*u.getAltura());
+       resultado="Tu imc es "+mivalor;
+       return resultado;
+    }
 }

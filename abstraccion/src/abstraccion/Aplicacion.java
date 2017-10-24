@@ -5,6 +5,8 @@
  */
 package abstraccion;
 
+import referenciados.Usuario;
+
 /**
  *
  * @author T-102

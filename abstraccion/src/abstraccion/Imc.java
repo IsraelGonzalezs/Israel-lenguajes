@@ -5,6 +5,8 @@
  */
 package abstraccion;
 
+import referenciados.Usuario;
+
 public class Imc {
     Usuario u;
     String resultado;
